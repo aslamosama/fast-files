@@ -33,6 +33,8 @@ chmod +x /path/to/ff
 chmod +x /path/to/ffv
 ```
 
+Or use the provided Makefile with `sudo make install`. It will install the scripts in `/usr/local/bin`.
+
 ## 🚀 Usage
 
 ```bash
